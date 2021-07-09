@@ -19,5 +19,4 @@ public class Subject {
     @Id
     private int subId;
     private String subName;
-    private int subMarks;
 }
